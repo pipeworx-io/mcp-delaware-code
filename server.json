@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/delaware-code",
   "title": "Delaware Code",
-  "description": "Delaware Code — state statutes by citation, full-text search, and",
-  "version": "0.1.0",
+  "description": "Delaware Code — state statutes by citation, full-text search, and amendment history. Fleet #2749.",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/delaware-code",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-delaware-code",

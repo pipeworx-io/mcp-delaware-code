@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-delaware-code",
-  "version": "0.1.0",
-  "description": "Delaware Code — state statutes by citation, full-text search, and",
+  "version": "0.1.1",
+  "description": "Delaware Code — state statutes by citation, full-text search, and amendment history. Fleet #2749.",
   "type": "module",
   "main": "src/index.ts",
   "types": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-0710d5af94c5ad8530d19db4dad76d49eb41da01615460d83af45e3efc82235b",
-    "sourceCommit": "be47827ad0f444e813e7224db0489c4ea890a30e"
+    "sourceHash": "v1-18b715f1b67d57efee92e43b9b6e02633968115a105708c3d3c350deb7f09340",
+    "sourceCommit": "3723e46c6d115bd4a1fd2175e6bf758555e7cb50"
   }
 }
