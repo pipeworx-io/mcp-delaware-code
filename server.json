@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/delaware-code",
   "title": "Delaware Code",
   "description": "Delaware Code — state statutes by citation, full-text search, and amendment history. Fleet #2749.",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/delaware-code",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-delaware-code",
